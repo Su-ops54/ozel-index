@@ -1,0 +1,126 @@
+{
+  "name": "Su-ops54 WebView Repo",
+  "version": 1,
+  "extensions": [
+    {
+      "name": "MilaScan",
+      "pkg": "milascan",
+      "version": 1,
+      "lang": "tr",
+      "nsfw": false,
+      "sources": [
+        {
+          "name": "MilaScan",
+          "baseUrl": "https://www.milascan.com",
+          "className": "MilaScanFactory",
+          "lang": "tr"
+        }
+      ]
+    },
+    {
+      "name": "Milascans TR",
+      "pkg": "milascanstr",
+      "version": 1,
+      "lang": "tr",
+      "nsfw": false,
+      "sources": [
+        {
+          "name": "Milascans TR",
+          "baseUrl": "https://milascans.tr",
+          "className": "MilascansTrFactory",
+          "lang": "tr"
+        }
+      ]
+    },
+    {
+      "name": "TR Webtoon",
+      "pkg": "trwebtoon",
+      "version": 1,
+      "lang": "tr",
+      "nsfw": false,
+      "sources": [
+        {
+          "name": "TR Webtoon",
+          "baseUrl": "https://trwebtoon.com",
+          "className": "TrWebtoonFactory",
+          "lang": "tr"
+        }
+      ]
+    },
+    {
+      "name": "Kuroi Manga",
+      "pkg": "kuroimanga",
+      "version": 1,
+      "lang": "tr",
+      "nsfw": false,
+      "sources": [
+        {
+          "name": "Kuroi Manga",
+          "baseUrl": "https://www.kuroimanga.black/manga",
+          "className": "KuroiMangaFactory",
+          "lang": "tr"
+        }
+      ]
+    },
+    {
+      "name": "Sunset Manga",
+      "pkg": "sunsetmanga",
+      "version": 1,
+      "lang": "tr",
+      "nsfw": false,
+      "sources": [
+        {
+          "name": "Sunset Manga",
+          "baseUrl": "https://www.sunsetmanga.com.tr",
+          "className": "SunsetMangaFactory",
+          "lang": "tr"
+        }
+      ]
+    },
+    {
+      "name": "Aroth Scans",
+      "pkg": "arothscans",
+      "version": 1,
+      "lang": "tr",
+      "nsfw": false,
+      "sources": [
+        {
+          "name": "Aroth Scans",
+          "baseUrl": "https://arothscans.com",
+          "className": "ArothScansFactory",
+          "lang": "tr"
+        }
+      ]
+    },
+    {
+      "name": "Gaiatoon",
+      "pkg": "gaiatoon",
+      "version": 1,
+      "lang": "tr",
+      "nsfw": false,
+      "sources": [
+        {
+          "name": "Gaiatoon",
+          "baseUrl": "https://gaiatoon.com",
+          "className": "GaiatoonFactory",
+          "lang": "tr"
+        }
+      ]
+    },
+    {
+      "name": "Timenaight",
+      "pkg": "timenaight",
+      "version": 1,
+      "lang": "tr",
+      "nsfw": false,
+      "sources": [
+        {
+          "name": "Timenaight",
+          "baseUrl": "https://timenaight.org",
+          "className": "TimenaightFactory",
+          "lang": "tr"
+        }
+      ]
+    }
+  ]
+}
